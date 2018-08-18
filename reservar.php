@@ -4,7 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Reserva de Espaço</title>
-        <link rel="stylesheet" href="./css/bulma.min.css">
+        <link rel="stylesheet" href="./css/bulma.min.css">        
+        <link rel="stylesheet" href="css/custom.css">
         <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
